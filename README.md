@@ -1,6 +1,6 @@
 ## Project Contributor
-- Name Goes here
-- Martic Number goes Here
+- DEBORAH IRETIOGO BALOGUN
+- U23MTH1006
 
 ## Getting Started
 
